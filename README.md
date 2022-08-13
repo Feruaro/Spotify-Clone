@@ -1,2 +1,2 @@
-## Meu repo de estudos em Angular:
+## Repo para projeto de clone do Spotify para fins de estudos com Angular
 
